@@ -4320,9 +4320,9 @@
   <property name="yencoder_wormdriver" type="float" value="1.0"/>
   <property name="yencodercounts" type="int" value="4000"/>
   <property name="yencoderscale" type="int" value="0"/>
-  <property name="yhomefinalvel" type="float" value="0.0"/>
+  <property name="yfinalvel" type="float" value="0.0"/>
   <property name="yhomelatchvel" type="float" value="0.166666666667"/>
-  <property name="yhomepos" type="float" value="3.85"/>
+  <property name="yhomepos" type="float" value="2.1875"/>
   <property name="yhomesearchvel" type="float" value="2.5"/>
   <property name="yhomesw" type="float" value="0.0"/>
   <property name="yhomevel" type="float" value="0.05"/>
